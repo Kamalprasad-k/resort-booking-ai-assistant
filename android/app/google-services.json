@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529790614889",
+    "project_id": "resort-booking-31e99",
+    "storage_bucket": "resort-booking-31e99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529790614889:android:a3539034770c721d6e51f8",
+        "android_client_info": {
+          "package_name": "com.example.hotel_managment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfljC36fgI3fjpqxJlG05LM87gCOEqW9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
